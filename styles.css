@@ -43,6 +43,11 @@
             flex: 1 1 250px;
             text-align: left;
         }
+        .card .desc {
+            font-size: 0.9em;
+            color: #555;
+            margin-top: 5px;
+        }
         .study-list,
         .work-list,
         .certification-list,
